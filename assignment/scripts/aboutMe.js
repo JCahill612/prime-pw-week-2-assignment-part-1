@@ -38,5 +38,4 @@ console.log( "Oh no, I have too many pets!" );
 if( pets === allowedPets){
     console.log( "I have enough pets" );
 }
-let mostPets = 
 
