@@ -11,7 +11,7 @@ let adventurous;
 
 adventurous = true
 if( adventurous === true){
-    console.log( "Adventure is Great!")
+    console.log( "Adventures are great!" )
 }
 else{
     console.log( "How about we stay home?" )
