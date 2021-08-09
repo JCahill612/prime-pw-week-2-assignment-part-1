@@ -7,7 +7,15 @@ console.log( fullName );
 let luckynumber = 2;
 console.log( 'My name is', fullName, 'and I think', luckynumber, 'is a winner!' );
 
-let adventurous = Boolean (true)
+let adventurous;
+
+adventurous = true
+if( adventurous === true){
+    console.log( "Adventure is Great!")
+}
+else{
+    console.log( "How about we stay home?" )
+}
 
 let food = 'pizza';
 let dogs = 2;
@@ -16,14 +24,6 @@ let pets = dogs + cats;
 let friendsPets = 3;
 
 const allowedPets = 4;
-
-if(adventurous){
-    console.log( "Adventures are great!" );
-}
-else{
-    console.log( "How about we stay home?" );
-}
-
 
 if (( luckynumber == "2" ) && ((adventurous == true ))) {
     console.log( "Roll the dice!" );
