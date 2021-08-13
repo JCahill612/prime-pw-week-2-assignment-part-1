@@ -1,5 +1,5 @@
 let firstName = 'Jenny';
-let lastName = 'Cahill';
+let lastName = ' Cahill';
 let fullName = firstName + lastName;
 console.log( fullName );
 
